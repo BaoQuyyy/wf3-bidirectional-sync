@@ -1,0 +1,9 @@
+{
+  "name": "wf3-mock-services",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Two systems to keep in sync, the merge base, conflict log and drift report. Zero dependencies.",
+  "engines": { "node": ">=22.5.0" },
+  "scripts": { "start": "node server.js" }
+}
